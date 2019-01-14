@@ -1,12 +1,17 @@
 {
   "name": "etcd-result-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A etcd-result-parser for module node-etcd",
+  "keywords": [
+    "node-etcd",
+    "etcd",
+    "etcd-parser"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "Y2Nk4",
   "license": "MIT",
   "dependencies": {
     "collect.js": "^4.4.0"
